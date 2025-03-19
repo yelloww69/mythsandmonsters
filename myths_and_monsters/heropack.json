@@ -1,0 +1,13 @@
+{
+    "name": "Myths and Monsters",
+    "description": "",
+    "watermark": "",
+    "domain": "mnm",
+    "minVersion": "2.3.0",
+    "packFormat": 1,
+    "alts": {
+        "mnm:zeus": {
+            "withskin": "Zmoos"
+          }
+    }
+}

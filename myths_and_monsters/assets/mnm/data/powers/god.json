@@ -1,0 +1,10 @@
+{
+    "name": "Greek Deity Physiology",
+    "modifiers": {
+      "fiskheroes:teleportation": {
+        "canReachMoon": true,
+        "range": 80.0
+      }
+    }
+  }
+  
