@@ -4,6 +4,12 @@
       "fiskheroes:teleportation": {
         "canReachMoon": true,
         "range": 80.0
+      },
+      "fiskheroes:projectile_immunity": {
+      },
+      "fiskheroes:arrow_catching": {
+      },
+      "fiskheroes:water_breathing": {
       }
     }
   }
